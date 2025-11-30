@@ -1,0 +1,5 @@
+{
+  "name": "AI Faceless Video Engine",
+  "description": "A fully autonomous, production-grade faceless video generation pipeline. Features script generation, multilingual support, voice synthesis, scene visualization, and realtime assembly.",
+  "requestFramePermissions": []
+}
